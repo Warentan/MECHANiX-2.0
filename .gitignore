@@ -1,0 +1,12 @@
+#gitignore made to hide all the upsidedown Ts we made in our worlds while playtesting
+
+
+backups
+journeymap/data/mp
+journeymap/data/sp
+essential/screenshot-cache
+essential/avatar-cache
+screenshots
+logs
+saves
+schematics
