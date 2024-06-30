@@ -1,0 +1,22 @@
+{
+  "id": "DUNGEON-EXIT_-414-128-1041",
+  "name": "DUNGEON EXIT",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--4748047-waypoint-icon.png",
+  "x": -414,
+  "y": 128,
+  "z": -1041,
+  "r": 183,
+  "g": 140,
+  "b": 241,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "futurepack:below_bedrock"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

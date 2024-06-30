@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "org/valkyrienskies/eureka/mixin/client/PlayerEntityModelMixin": {
+      "setupAnim": "Lnet/minecraft/client/renderer/entity/model/PlayerModel;func_225597_a_(Lnet/minecraft/entity/LivingEntity;FFFFF)V"
+    },
+    "org/valkyrienskies/eureka/mixin/client/MixinEntityRenderDispatcher": {
+      "registerRenderers": "Lnet/minecraft/client/renderer/entity/EntityRendererManager;func_229097_a_(Lnet/minecraft/client/renderer/ItemRenderer;Lnet/minecraft/resources/IReloadableResourceManager;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "org/valkyrienskies/eureka/mixin/client/PlayerEntityModelMixin": {
+        "setupAnim": "Lnet/minecraft/client/renderer/entity/model/PlayerModel;func_225597_a_(Lnet/minecraft/entity/LivingEntity;FFFFF)V"
+      },
+      "org/valkyrienskies/eureka/mixin/client/MixinEntityRenderDispatcher": {
+        "registerRenderers": "Lnet/minecraft/client/renderer/entity/EntityRendererManager;func_229097_a_(Lnet/minecraft/client/renderer/ItemRenderer;Lnet/minecraft/resources/IReloadableResourceManager;)V"
+      }
+    }
+  }
+}
